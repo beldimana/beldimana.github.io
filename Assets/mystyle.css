@@ -2,3 +2,22 @@ h3,
 p {
   text-align: center;
 }
+.navbar {
+  background-color: #9d0208;
+}
+.nav-item .nav-link {
+  color: yellow;
+  font-family: "Times New Roman", Times, serif;
+}
+.navbar-brand {
+  color: yellow;
+}
+.card-text {
+  text-align: left;
+}
+footer {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #9d0208;
+  color: yellow;
+  padding-left: 5px;
+}
