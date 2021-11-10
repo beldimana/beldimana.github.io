@@ -21,3 +21,6 @@ footer {
   color: yellow;
   padding-left: 5px;
 }
+.row .col-sm-3 {
+  width: auto;
+}
